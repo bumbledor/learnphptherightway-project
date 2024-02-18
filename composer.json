@@ -10,7 +10,8 @@
         "twig/intl-extra": "^3.4",
         "slim/slim": "4.*",
         "slim/psr7": "^1.5",
-        "slim/twig-view": "^3.3"
+        "slim/twig-view": "^3.3",
+        "illuminate/container": "^10.44"
     },
     "autoload": {
         "psr-4": {
