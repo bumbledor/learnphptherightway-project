@@ -12,6 +12,7 @@ class View
         protected string $view,
         protected array $params = []
     ) {
+        xdebug_info();
     }
 
     public static function make(string $view, array $params = []): static
@@ -23,11 +24,11 @@ class View
     {
         $viewPath = VIEW_PATH . '/' . $this->view . '.php';
 
-        if (! file_exists($viewPath)) {
+        if (!file_exists($viewPath)) {
             throw new ViewNotFoundException();
         }
 
-        foreach($this->params as $key => $value) {
+        foreach ($this->params as $key => $value) {
             $$key = $value;
         }
 

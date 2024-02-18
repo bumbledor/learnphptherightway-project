@@ -1,0 +1,464 @@
+
+Fatal error: Uncaught Dotenv\Exception\InvalidPathException: Unable to read any of the environment file(s) at [/var/www/.env]. in /var/www/vendor/vlucas/phpdotenv/src/Store/FileStore.php:68
+Stack trace:
+#0 /var/www/vendor/vlucas/phpdotenv/src/Dotenv.php(222): Dotenv\Store\FileStore->read()
+#1 /var/www/app/App.php(44): Dotenv\Dotenv->load()
+#2 /var/www/scripts/email.php(12): App\App->boot()
+#3 {main}
+  thrown in /var/www/vendor/vlucas/phpdotenv/src/Store/FileStore.php on line 68
+
+Fatal error: Uncaught Dotenv\Exception\InvalidPathException: Unable to read any of the environment file(s) at [/var/www/.env]. in /var/www/vendor/vlucas/phpdotenv/src/Store/FileStore.php:68
+Stack trace:
+#0 /var/www/vendor/vlucas/phpdotenv/src/Dotenv.php(222): Dotenv\Store\FileStore->read()
+#1 /var/www/app/App.php(44): Dotenv\Dotenv->load()
+#2 /var/www/scripts/email.php(12): App\App->boot()
+#3 {main}
+  thrown in /var/www/vendor/vlucas/phpdotenv/src/Store/FileStore.php on line 68
+
+Fatal error: Uncaught Dotenv\Exception\InvalidPathException: Unable to read any of the environment file(s) at [/var/www/.env]. in /var/www/vendor/vlucas/phpdotenv/src/Store/FileStore.php:68
+Stack trace:
+#0 /var/www/vendor/vlucas/phpdotenv/src/Dotenv.php(222): Dotenv\Store\FileStore->read()
+#1 /var/www/app/App.php(44): Dotenv\Dotenv->load()
+#2 /var/www/scripts/email.php(12): App\App->boot()
+#3 {main}
+  thrown in /var/www/vendor/vlucas/phpdotenv/src/Store/FileStore.php on line 68
+
+Fatal error: Uncaught Dotenv\Exception\InvalidPathException: Unable to read any of the environment file(s) at [/var/www/.env]. in /var/www/vendor/vlucas/phpdotenv/src/Store/FileStore.php:68
+Stack trace:
+#0 /var/www/vendor/vlucas/phpdotenv/src/Dotenv.php(222): Dotenv\Store\FileStore->read()
+#1 /var/www/app/App.php(44): Dotenv\Dotenv->load()
+#2 /var/www/scripts/email.php(12): App\App->boot()
+#3 {main}
+  thrown in /var/www/vendor/vlucas/phpdotenv/src/Store/FileStore.php on line 68
+
+Fatal error: Uncaught Dotenv\Exception\InvalidPathException: Unable to read any of the environment file(s) at [/var/www/.env]. in /var/www/vendor/vlucas/phpdotenv/src/Store/FileStore.php:68
+Stack trace:
+#0 /var/www/vendor/vlucas/phpdotenv/src/Dotenv.php(222): Dotenv\Store\FileStore->read()
+#1 /var/www/app/App.php(44): Dotenv\Dotenv->load()
+#2 /var/www/scripts/email.php(12): App\App->boot()
+#3 {main}
+  thrown in /var/www/vendor/vlucas/phpdotenv/src/Store/FileStore.php on line 68
+
+Fatal error: Uncaught Dotenv\Exception\InvalidPathException: Unable to read any of the environment file(s) at [/var/www/.env]. in /var/www/vendor/vlucas/phpdotenv/src/Store/FileStore.php:68
+Stack trace:
+#0 /var/www/vendor/vlucas/phpdotenv/src/Dotenv.php(222): Dotenv\Store\FileStore->read()
+#1 /var/www/app/App.php(44): Dotenv\Dotenv->load()
+#2 /var/www/scripts/email.php(12): App\App->boot()
+#3 {main}
+  thrown in /var/www/vendor/vlucas/phpdotenv/src/Store/FileStore.php on line 68
+
+Fatal error: Uncaught Dotenv\Exception\InvalidPathException: Unable to read any of the environment file(s) at [/var/www/.env]. in /var/www/vendor/vlucas/phpdotenv/src/Store/FileStore.php:68
+Stack trace:
+#0 /var/www/vendor/vlucas/phpdotenv/src/Dotenv.php(222): Dotenv\Store\FileStore->read()
+#1 /var/www/app/App.php(44): Dotenv\Dotenv->load()
+#2 /var/www/scripts/email.php(12): App\App->boot()
+#3 {main}
+  thrown in /var/www/vendor/vlucas/phpdotenv/src/Store/FileStore.php on line 68
+
+Fatal error: Uncaught Dotenv\Exception\InvalidPathException: Unable to read any of the environment file(s) at [/var/www/.env]. in /var/www/vendor/vlucas/phpdotenv/src/Store/FileStore.php:68
+Stack trace:
+#0 /var/www/vendor/vlucas/phpdotenv/src/Dotenv.php(222): Dotenv\Store\FileStore->read()
+#1 /var/www/app/App.php(44): Dotenv\Dotenv->load()
+#2 /var/www/scripts/email.php(12): App\App->boot()
+#3 {main}
+  thrown in /var/www/vendor/vlucas/phpdotenv/src/Store/FileStore.php on line 68
+
+Fatal error: Uncaught Dotenv\Exception\InvalidPathException: Unable to read any of the environment file(s) at [/var/www/.env]. in /var/www/vendor/vlucas/phpdotenv/src/Store/FileStore.php:68
+Stack trace:
+#0 /var/www/vendor/vlucas/phpdotenv/src/Dotenv.php(222): Dotenv\Store\FileStore->read()
+#1 /var/www/app/App.php(44): Dotenv\Dotenv->load()
+#2 /var/www/scripts/email.php(12): App\App->boot()
+#3 {main}
+  thrown in /var/www/vendor/vlucas/phpdotenv/src/Store/FileStore.php on line 68
+
+Fatal error: Uncaught Dotenv\Exception\InvalidPathException: Unable to read any of the environment file(s) at [/var/www/.env]. in /var/www/vendor/vlucas/phpdotenv/src/Store/FileStore.php:68
+Stack trace:
+#0 /var/www/vendor/vlucas/phpdotenv/src/Dotenv.php(222): Dotenv\Store\FileStore->read()
+#1 /var/www/app/App.php(44): Dotenv\Dotenv->load()
+#2 /var/www/scripts/email.php(12): App\App->boot()
+#3 {main}
+  thrown in /var/www/vendor/vlucas/phpdotenv/src/Store/FileStore.php on line 68
+
+Fatal error: Uncaught Dotenv\Exception\InvalidPathException: Unable to read any of the environment file(s) at [/var/www/.env]. in /var/www/vendor/vlucas/phpdotenv/src/Store/FileStore.php:68
+Stack trace:
+#0 /var/www/vendor/vlucas/phpdotenv/src/Dotenv.php(222): Dotenv\Store\FileStore->read()
+#1 /var/www/app/App.php(44): Dotenv\Dotenv->load()
+#2 /var/www/scripts/email.php(12): App\App->boot()
+#3 {main}
+  thrown in /var/www/vendor/vlucas/phpdotenv/src/Store/FileStore.php on line 68
+
+Fatal error: Uncaught Dotenv\Exception\InvalidPathException: Unable to read any of the environment file(s) at [/var/www/.env]. in /var/www/vendor/vlucas/phpdotenv/src/Store/FileStore.php:68
+Stack trace:
+#0 /var/www/vendor/vlucas/phpdotenv/src/Dotenv.php(222): Dotenv\Store\FileStore->read()
+#1 /var/www/app/App.php(44): Dotenv\Dotenv->load()
+#2 /var/www/scripts/email.php(12): App\App->boot()
+#3 {main}
+  thrown in /var/www/vendor/vlucas/phpdotenv/src/Store/FileStore.php on line 68
+
+Fatal error: Uncaught Dotenv\Exception\InvalidPathException: Unable to read any of the environment file(s) at [/var/www/.env]. in /var/www/vendor/vlucas/phpdotenv/src/Store/FileStore.php:68
+Stack trace:
+#0 /var/www/vendor/vlucas/phpdotenv/src/Dotenv.php(222): Dotenv\Store\FileStore->read()
+#1 /var/www/app/App.php(44): Dotenv\Dotenv->load()
+#2 /var/www/scripts/email.php(12): App\App->boot()
+#3 {main}
+  thrown in /var/www/vendor/vlucas/phpdotenv/src/Store/FileStore.php on line 68
+
+Fatal error: Uncaught Dotenv\Exception\InvalidPathException: Unable to read any of the environment file(s) at [/var/www/.env]. in /var/www/vendor/vlucas/phpdotenv/src/Store/FileStore.php:68
+Stack trace:
+#0 /var/www/vendor/vlucas/phpdotenv/src/Dotenv.php(222): Dotenv\Store\FileStore->read()
+#1 /var/www/app/App.php(33): Dotenv\Dotenv->load()
+#2 /var/www/scripts/email.php(13): App\App->boot()
+#3 {main}
+  thrown in /var/www/vendor/vlucas/phpdotenv/src/Store/FileStore.php on line 68
+
+Fatal error: Uncaught Dotenv\Exception\InvalidPathException: Unable to read any of the environment file(s) at [/var/www/.env]. in /var/www/vendor/vlucas/phpdotenv/src/Store/FileStore.php:68
+Stack trace:
+#0 /var/www/vendor/vlucas/phpdotenv/src/Dotenv.php(222): Dotenv\Store\FileStore->read()
+#1 /var/www/app/App.php(44): Dotenv\Dotenv->load()
+#2 /var/www/scripts/email.php(12): App\App->boot()
+#3 {main}
+  thrown in /var/www/vendor/vlucas/phpdotenv/src/Store/FileStore.php on line 68
+
+Fatal error: Uncaught Dotenv\Exception\InvalidPathException: Unable to read any of the environment file(s) at [/var/www/.env]. in /var/www/vendor/vlucas/phpdotenv/src/Store/FileStore.php:68
+Stack trace:
+#0 /var/www/vendor/vlucas/phpdotenv/src/Dotenv.php(222): Dotenv\Store\FileStore->read()
+#1 /var/www/app/App.php(44): Dotenv\Dotenv->load()
+#2 /var/www/scripts/email.php(12): App\App->boot()
+#3 {main}
+  thrown in /var/www/vendor/vlucas/phpdotenv/src/Store/FileStore.php on line 68
+
+Fatal error: Uncaught Error: Class "Illuminate\Database\Capsule\Manager" not found in /var/www/app/App.php:33
+Stack trace:
+#0 /var/www/app/App.php(48): App\App->initDb(Array)
+#1 /var/www/scripts/email.php(12): App\App->boot()
+#2 {main}
+  thrown in /var/www/app/App.php on line 33
+
+Warning: require(/var/www/vendor/composer/../nikic/fast-route/src/functions.php): Failed to open stream: No such file or directory in /var/www/vendor/composer/autoload_real.php on line 41
+
+Fatal error: Uncaught Error: Failed opening required '/var/www/vendor/composer/../nikic/fast-route/src/functions.php' (include_path='.:/usr/local/lib/php') in /var/www/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /var/www/vendor/composer/autoload_real.php(45): {closure}('253c157292f75eb...', '/var/www/vendor...')
+#1 /var/www/vendor/autoload.php(25): ComposerAutoloaderInit83cee258bce3adf6e0842de6001a129f::getLoader()
+#2 /var/www/scripts/email.php(8): require_once('/var/www/vendor...')
+#3 {main}
+  thrown in /var/www/vendor/composer/autoload_real.php on line 41
+
+Fatal error: Uncaught Error: Undefined constant "App\VIEW_PATH" in /var/www/app/App.php:51
+Stack trace:
+#0 /var/www/scripts/email.php(12): App\App->boot()
+#1 {main}
+  thrown in /var/www/app/App.php on line 51
+
+Fatal error: Uncaught Error: Undefined constant "App\VIEW_PATH" in /var/www/app/App.php:51
+Stack trace:
+#0 /var/www/scripts/email.php(12): App\App->boot()
+#1 {main}
+  thrown in /var/www/app/App.php on line 51
+
+Fatal error: Uncaught Error: Undefined constant "App\VIEW_PATH" in /var/www/app/App.php:51
+Stack trace:
+#0 /var/www/scripts/email.php(12): App\App->boot()
+#1 {main}
+  thrown in /var/www/app/App.php on line 51
+
+Fatal error: Uncaught Error: Undefined constant "App\VIEW_PATH" in /var/www/app/App.php:51
+Stack trace:
+#0 /var/www/scripts/email.php(12): App\App->boot()
+#1 {main}
+  thrown in /var/www/app/App.php on line 51
+
+Fatal error: Uncaught Error: Undefined constant "App\VIEW_PATH" in /var/www/app/App.php:51
+Stack trace:
+#0 /var/www/scripts/email.php(12): App\App->boot()
+#1 {main}
+  thrown in /var/www/app/App.php on line 51
+
+Fatal error: Uncaught Error: Undefined constant "App\VIEW_PATH" in /var/www/app/App.php:51
+Stack trace:
+#0 /var/www/scripts/email.php(12): App\App->boot()
+#1 {main}
+  thrown in /var/www/app/App.php on line 51
+
+Fatal error: Uncaught Error: Undefined constant "App\VIEW_PATH" in /var/www/app/App.php:51
+Stack trace:
+#0 /var/www/scripts/email.php(12): App\App->boot()
+#1 {main}
+  thrown in /var/www/app/App.php on line 51
+
+Fatal error: Uncaught Error: Undefined constant "App\VIEW_PATH" in /var/www/app/App.php:51
+Stack trace:
+#0 /var/www/scripts/email.php(12): App\App->boot()
+#1 {main}
+  thrown in /var/www/app/App.php on line 51
+
+Fatal error: Uncaught Error: Undefined constant "App\VIEW_PATH" in /var/www/app/App.php:51
+Stack trace:
+#0 /var/www/scripts/email.php(12): App\App->boot()
+#1 {main}
+  thrown in /var/www/app/App.php on line 51
+
+Fatal error: Uncaught Error: Undefined constant "App\VIEW_PATH" in /var/www/app/App.php:51
+Stack trace:
+#0 /var/www/scripts/email.php(12): App\App->boot()
+#1 {main}
+  thrown in /var/www/app/App.php on line 51
+
+Fatal error: Uncaught Error: Undefined constant "App\VIEW_PATH" in /var/www/app/App.php:51
+Stack trace:
+#0 /var/www/scripts/email.php(12): App\App->boot()
+#1 {main}
+  thrown in /var/www/app/App.php on line 51
+
+Fatal error: Uncaught Error: Undefined constant "App\VIEW_PATH" in /var/www/app/App.php:51
+Stack trace:
+#0 /var/www/scripts/email.php(12): App\App->boot()
+#1 {main}
+  thrown in /var/www/app/App.php on line 51
+
+Fatal error: Uncaught Error: Undefined constant "App\VIEW_PATH" in /var/www/app/App.php:51
+Stack trace:
+#0 /var/www/scripts/email.php(12): App\App->boot()
+#1 {main}
+  thrown in /var/www/app/App.php on line 51
+
+Fatal error: Uncaught Error: Undefined constant "App\VIEW_PATH" in /var/www/app/App.php:51
+Stack trace:
+#0 /var/www/scripts/email.php(12): App\App->boot()
+#1 {main}
+  thrown in /var/www/app/App.php on line 51
+
+Fatal error: Uncaught Error: Undefined constant "App\VIEW_PATH" in /var/www/app/App.php:51
+Stack trace:
+#0 /var/www/scripts/email.php(12): App\App->boot()
+#1 {main}
+  thrown in /var/www/app/App.php on line 51
+
+Fatal error: Uncaught Error: Undefined constant "App\VIEW_PATH" in /var/www/app/App.php:51
+Stack trace:
+#0 /var/www/scripts/email.php(12): App\App->boot()
+#1 {main}
+  thrown in /var/www/app/App.php on line 51
+
+Fatal error: Uncaught Error: Undefined constant "App\VIEW_PATH" in /var/www/app/App.php:51
+Stack trace:
+#0 /var/www/scripts/email.php(12): App\App->boot()
+#1 {main}
+  thrown in /var/www/app/App.php on line 51
+
+Fatal error: Uncaught Error: Undefined constant "App\VIEW_PATH" in /var/www/app/App.php:51
+Stack trace:
+#0 /var/www/scripts/email.php(12): App\App->boot()
+#1 {main}
+  thrown in /var/www/app/App.php on line 51
+
+Fatal error: Uncaught Error: Undefined constant "App\VIEW_PATH" in /var/www/app/App.php:51
+Stack trace:
+#0 /var/www/scripts/email.php(12): App\App->boot()
+#1 {main}
+  thrown in /var/www/app/App.php on line 51
+
+Fatal error: Uncaught Error: Undefined constant "App\VIEW_PATH" in /var/www/app/App.php:51
+Stack trace:
+#0 /var/www/scripts/email.php(12): App\App->boot()
+#1 {main}
+  thrown in /var/www/app/App.php on line 51
+
+Fatal error: Uncaught Error: Undefined constant "App\VIEW_PATH" in /var/www/app/App.php:51
+Stack trace:
+#0 /var/www/scripts/email.php(12): App\App->boot()
+#1 {main}
+  thrown in /var/www/app/App.php on line 51
+
+Fatal error: Uncaught Error: Undefined constant "App\VIEW_PATH" in /var/www/app/App.php:51
+Stack trace:
+#0 /var/www/scripts/email.php(12): App\App->boot()
+#1 {main}
+  thrown in /var/www/app/App.php on line 51
+
+Fatal error: Uncaught Error: Undefined constant "App\VIEW_PATH" in /var/www/app/App.php:51
+Stack trace:
+#0 /var/www/scripts/email.php(12): App\App->boot()
+#1 {main}
+  thrown in /var/www/app/App.php on line 51
+
+Fatal error: Uncaught Error: Undefined constant "App\VIEW_PATH" in /var/www/app/App.php:51
+Stack trace:
+#0 /var/www/scripts/email.php(12): App\App->boot()
+#1 {main}
+  thrown in /var/www/app/App.php on line 51
+
+Warning: require(/var/www/vendor/composer/../illuminate/collections/helpers.php): Failed to open stream: No such file or directory in /var/www/vendor/composer/autoload_real.php on line 41
+
+Fatal error: Uncaught Error: Failed opening required '/var/www/vendor/composer/../illuminate/collections/helpers.php' (include_path='.:/usr/local/lib/php') in /var/www/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /var/www/vendor/composer/autoload_real.php(45): {closure}('60799491728b879...', '/var/www/vendor...')
+#1 /var/www/vendor/autoload.php(25): ComposerAutoloaderInit83cee258bce3adf6e0842de6001a129f::getLoader()
+#2 /var/www/scripts/email.php(8): require_once('/var/www/vendor...')
+#3 {main}
+  thrown in /var/www/vendor/composer/autoload_real.php on line 41
+
+Fatal error: Uncaught Error: Class "Illuminate\Container\Container" not found in /var/www/scripts/email.php:10
+Stack trace:
+#0 {main}
+  thrown in /var/www/scripts/email.php on line 10
+
+Fatal error: Uncaught Error: Class "Illuminate\Container\Container" not found in /var/www/scripts/email.php:10
+Stack trace:
+#0 {main}
+  thrown in /var/www/scripts/email.php on line 10
+
+Fatal error: Uncaught Error: Class "Illuminate\Container\Container" not found in /var/www/scripts/email.php:10
+Stack trace:
+#0 {main}
+  thrown in /var/www/scripts/email.php on line 10
+
+Fatal error: Uncaught Error: Class "Illuminate\Container\Container" not found in /var/www/scripts/email.php:10
+Stack trace:
+#0 {main}
+  thrown in /var/www/scripts/email.php on line 10
+
+Fatal error: Uncaught Error: Class "Illuminate\Container\Container" not found in /var/www/scripts/email.php:10
+Stack trace:
+#0 {main}
+  thrown in /var/www/scripts/email.php on line 10
+
+Fatal error: Uncaught Error: Class "Illuminate\Container\Container" not found in /var/www/scripts/email.php:10
+Stack trace:
+#0 {main}
+  thrown in /var/www/scripts/email.php on line 10
+
+Fatal error: Uncaught Error: Class "Illuminate\Container\Container" not found in /var/www/scripts/email.php:10
+Stack trace:
+#0 {main}
+  thrown in /var/www/scripts/email.php on line 10
+
+Fatal error: Uncaught Error: Class "Illuminate\Container\Container" not found in /var/www/scripts/email.php:10
+Stack trace:
+#0 {main}
+  thrown in /var/www/scripts/email.php on line 10
+
+Fatal error: Uncaught Error: Class "Illuminate\Container\Container" not found in /var/www/scripts/email.php:10
+Stack trace:
+#0 {main}
+  thrown in /var/www/scripts/email.php on line 10
+
+Fatal error: Uncaught Error: Class "Illuminate\Container\Container" not found in /var/www/scripts/email.php:10
+Stack trace:
+#0 {main}
+  thrown in /var/www/scripts/email.php on line 10
+
+Fatal error: Uncaught Error: Class "Illuminate\Container\Container" not found in /var/www/scripts/email.php:10
+Stack trace:
+#0 {main}
+  thrown in /var/www/scripts/email.php on line 10
+
+Fatal error: Uncaught Error: Class "Illuminate\Container\Container" not found in /var/www/scripts/email.php:10
+Stack trace:
+#0 {main}
+  thrown in /var/www/scripts/email.php on line 10
+
+Fatal error: Uncaught Error: Class "Illuminate\Container\Container" not found in /var/www/scripts/email.php:10
+Stack trace:
+#0 {main}
+  thrown in /var/www/scripts/email.php on line 10
+
+Fatal error: Uncaught Error: Class "Illuminate\Container\Container" not found in /var/www/scripts/email.php:10
+Stack trace:
+#0 {main}
+  thrown in /var/www/scripts/email.php on line 10
+
+Fatal error: Uncaught Error: Class "Illuminate\Container\Container" not found in /var/www/scripts/email.php:10
+Stack trace:
+#0 {main}
+  thrown in /var/www/scripts/email.php on line 10
+
+Fatal error: Uncaught Error: Class "Illuminate\Container\Container" not found in /var/www/scripts/email.php:10
+Stack trace:
+#0 {main}
+  thrown in /var/www/scripts/email.php on line 10
+
+Fatal error: Uncaught Error: Class "Illuminate\Container\Container" not found in /var/www/scripts/email.php:10
+Stack trace:
+#0 {main}
+  thrown in /var/www/scripts/email.php on line 10
+
+Fatal error: Uncaught Error: Class "Illuminate\Container\Container" not found in /var/www/scripts/email.php:10
+Stack trace:
+#0 {main}
+  thrown in /var/www/scripts/email.php on line 10
+
+Fatal error: Uncaught Error: Class "Illuminate\Container\Container" not found in /var/www/scripts/email.php:10
+Stack trace:
+#0 {main}
+  thrown in /var/www/scripts/email.php on line 10
+
+Fatal error: Uncaught Error: Class "Illuminate\Container\Container" not found in /var/www/scripts/email.php:10
+Stack trace:
+#0 {main}
+  thrown in /var/www/scripts/email.php on line 10
+
+Fatal error: Uncaught Error: Class "Illuminate\Container\Container" not found in /var/www/scripts/email.php:10
+Stack trace:
+#0 {main}
+  thrown in /var/www/scripts/email.php on line 10
+
+Fatal error: Uncaught Error: Class "Illuminate\Container\Container" not found in /var/www/scripts/email.php:10
+Stack trace:
+#0 {main}
+  thrown in /var/www/scripts/email.php on line 10
+
+Fatal error: Uncaught Error: Class "Illuminate\Container\Container" not found in /var/www/scripts/email.php:10
+Stack trace:
+#0 {main}
+  thrown in /var/www/scripts/email.php on line 10
+
+Fatal error: Uncaught Error: Class "Illuminate\Container\Container" not found in /var/www/scripts/email.php:10
+Stack trace:
+#0 {main}
+  thrown in /var/www/scripts/email.php on line 10
+
+Fatal error: Uncaught Error: Class "Illuminate\Container\Container" not found in /var/www/scripts/email.php:10
+Stack trace:
+#0 {main}
+  thrown in /var/www/scripts/email.php on line 10
+
+Fatal error: Uncaught Error: Class "Illuminate\Container\Container" not found in /var/www/scripts/email.php:10
+Stack trace:
+#0 {main}
+  thrown in /var/www/scripts/email.php on line 10
+
+Fatal error: Uncaught Error: Class "Illuminate\Container\Container" not found in /var/www/scripts/email.php:10
+Stack trace:
+#0 {main}
+  thrown in /var/www/scripts/email.php on line 10
+
+Fatal error: Uncaught Error: Class "Illuminate\Container\Container" not found in /var/www/scripts/email.php:10
+Stack trace:
+#0 {main}
+  thrown in /var/www/scripts/email.php on line 10
+
+Fatal error: Uncaught Error: Class "Illuminate\Container\Container" not found in /var/www/scripts/email.php:10
+Stack trace:
+#0 {main}
+  thrown in /var/www/scripts/email.php on line 10
+
+Fatal error: Uncaught Error: Class "Illuminate\Container\Container" not found in /var/www/scripts/email.php:10
+Stack trace:
+#0 {main}
+  thrown in /var/www/scripts/email.php on line 10
+
+Fatal error: Uncaught Error: Class "Illuminate\Container\Container" not found in /var/www/scripts/email.php:10
+Stack trace:
+#0 {main}
+  thrown in /var/www/scripts/email.php on line 10
+
+Fatal error: Uncaught Error: Class "Illuminate\Container\Container" not found in /var/www/scripts/email.php:10
+Stack trace:
+#0 {main}
+  thrown in /var/www/scripts/email.php on line 10
+
+Fatal error: Uncaught Error: Class "Illuminate\Container\Container" not found in /var/www/scripts/email.php:10
+Stack trace:
+#0 {main}
+  thrown in /var/www/scripts/email.php on line 10
